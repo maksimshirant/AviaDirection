@@ -1,0 +1,162 @@
+[
+   {
+      "id": "1",
+      "price": 200,
+      "stops": 0,
+      "destination": "Нью-Йорк",
+      "origin": "Лондон",
+      "duration": "7ч 30мин"
+   },
+   {
+      "id": "2",
+      "price": 150,
+      "stops": 1,
+      "destination": "Париж",
+      "origin": "Берлин",
+      "duration": "5ч 15мин"
+   },
+   {
+      "id": "3",
+      "price": 300,
+      "stops": 2,
+      "destination": "Токио",
+      "origin": "Сан-Франциско",
+      "duration": "11ч 45мин"
+   },
+   {
+      "id": "4",
+      "price": 220,
+      "stops": 0,
+      "destination": "Рим",
+      "origin": "Мадрид",
+      "duration": "2ч 45мин"
+   },
+   {
+      "id": "5",
+      "price": 180,
+      "stops": 1,
+      "destination": "Барселона",
+      "origin": "Амстердам",
+      "duration": "3ч 20мин"
+   },
+   {
+      "id": "6",
+      "price": 400,
+      "stops": 3,
+      "destination": "Сидней",
+      "origin": "Торонто",
+      "duration": "22ч 30мин"
+   },
+   {
+      "id": "7",
+      "price": 250,
+      "stops": 0,
+      "destination": "Берлин",
+      "origin": "Прага",
+      "duration": "1ч 50мин"
+   },
+   {
+      "id": "8",
+      "price": 320,
+      "stops": 2,
+      "destination": "Бангкок",
+      "origin": "Москва",
+      "duration": "9ч 40мин"
+   },
+   {
+      "id": "9",
+      "price": 140,
+      "stops": 1,
+      "destination": "Дубай",
+      "origin": "Нью-Дели",
+      "duration": "4ч 30мин"
+   },
+   {
+      "id": "10",
+      "price": 280,
+      "stops": 0,
+      "destination": "Гонконг",
+      "origin": "Сингапур",
+      "duration": "3ч 50мин"
+   },
+   {
+      "id": "11",
+      "price": 175,
+      "stops": 1,
+      "destination": "Цюрих",
+      "origin": "Вена",
+      "duration": "2ч 10мин"
+   },
+   {
+      "id": "12",
+      "price": 370,
+      "stops": 2,
+      "destination": "Мельбурн",
+      "origin": "Кейптаун",
+      "duration": "15ч 25мин"
+   },
+   {
+      "id": "13",
+      "price": 290,
+      "stops": 1,
+      "destination": "Сеул",
+      "origin": "Шанхай",
+      "duration": "2ч 55мин"
+   },
+   {
+      "id": "14",
+      "price": 310,
+      "stops": 0,
+      "destination": "Лос-Анджелес",
+      "origin": "Чикаго",
+      "duration": "4ч 20мин"
+   },
+   {
+      "id": "15",
+      "price": 130,
+      "stops": 1,
+      "destination": "Хельсинки",
+      "origin": "Стокгольм",
+      "duration": "1ч 30мин"
+   },
+   {
+      "id": "16",
+      "price": 450,
+      "stops": 3,
+      "destination": "Канберра",
+      "origin": "Окленд",
+      "duration": "19ч 45мин"
+   },
+   {
+      "id": "17",
+      "price": 230,
+      "stops": 0,
+      "destination": "Вашингтон",
+      "origin": "Торонто",
+      "duration": "1ч 50мин"
+   },
+   {
+      "id": "18",
+      "price": 275,
+      "stops": 2,
+      "destination": "Канкун",
+      "origin": "Майами",
+      "duration": "5ч 10мин"
+   },
+   {
+      "id": "19",
+      "price": 320,
+      "stops": 1,
+      "destination": "Тель-Авив",
+      "origin": "Афины",
+      "duration": "3ч 45мин"
+   },
+   {
+      "id": "20",
+      "price": 210,
+      "stops": 0,
+      "destination": "Копенгаген",
+      "origin": "Осло",
+      "duration": "1ч 20мин"
+   }
+]
